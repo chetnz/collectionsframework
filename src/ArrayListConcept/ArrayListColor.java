@@ -20,6 +20,7 @@ public class ArrayListColor {
 		a1.add("bliss");
 		a1.add("Inner Peace");
 
+		a1.add("Beauty");
 		Iterator i = a1.iterator();
 		while(i.hasNext()==true)
 		{
