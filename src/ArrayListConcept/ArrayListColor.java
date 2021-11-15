@@ -16,6 +16,7 @@ public class ArrayListColor {
 		a1.add("Yellow");
 		a1.add("Orange");
 		a1.add("Red");
+		a1.add("happiness");
 		Iterator i = a1.iterator();
 		while(i.hasNext()==true)
 		{
